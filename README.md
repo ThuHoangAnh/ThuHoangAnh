@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Thu
+# 👋 Hi, I'm Hoang Anh Thu
 
-AI-focused engineer with hands-on experience in machine learning and deep learning, with strong skills in troubleshooting and system diagnostics.
+🚀 AI Engineer focused on Machine Learning & Deep Learning, building real-world intelligent systems  
+
+🌐 **Portfolio:** https://thuhoanganh.github.io  
+💻 **GitHub:** https://github.com/ThuHoangAnh  
+📫 **Email:** anhthu.hoang2494@gmail.com
 
 ---
 
@@ -60,6 +64,3 @@ AI-focused engineer with hands-on experience in machine learning and deep learni
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/ThuHoangAnh
