@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Thu
 
-<!--
-**ThuHoangAnh/ThuHoangAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-focused engineer with hands-on experience in machine learning and deep learning, with strong skills in troubleshooting and system diagnostics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- ❤️ Heart Disease Prediction  
+  👉 https://github.com/ThuHoangAnh/Heart-Disease-Prediction  
+
+- 🎥 Video Action Recognition  
+  👉 https://github.com/ThuHoangAnh/Video-Action-Classification  
+
+---
+
+## 🌐 Live Demo
+👉 https://heart-disease-prediction-c3ruqi2bkcwzd949snlw6e.streamlit.app
