@@ -10,8 +10,8 @@ AI-focused engineer with hands-on experience in machine learning and deep learni
 - Built a Streamlit-based ML app to predict heart disease risk using clinical data  
 - Trained and compared multiple models (AdaBoost, RandomForest, GradientBoosting, XGBoost)  
 - Applied feature engineering and model selection to improve performance  
-👉 https://github.com/ThuHoangAnh/Heart-Disease-Prediction  
-👉 https://heart-disease-prediction-c3ruqi2bkcwzd949snlw6e.streamlit.app  
+🔗 [GitHub Repository](https://github.com/ThuHoangAnh/Heart-Disease-Prediction)  
+🌐 [Live Demo](https://heart-disease-prediction-c3ruqi2bkcwzd949snlw6e.streamlit.app) 
 
 ---
 
@@ -19,7 +19,7 @@ AI-focused engineer with hands-on experience in machine learning and deep learni
 - Built a video classification system using Vision Transformer (ViT) with pretrained VideoMAE  
 - Applied temporal test-time augmentation and data augmentation  
 - Achieved 0.78 validation accuracy  
-👉 https://github.com/ThuHoangAnh/Video-Action-Classification  
+🔗 [GitHub Repository](https://github.com/ThuHoangAnh/Video-Action-Classification)
 
 ---
 
