@@ -55,7 +55,7 @@ AI-focused engineer with hands-on experience in machine learning and deep learni
 
 ## 🎓 Education
 
-- B.E. Electronics & Telecommunications Engineering  
+- B.S. Electronics & Telecommunications Engineering  
 - B.A. English Linguistics and Literature  
 
 ---
