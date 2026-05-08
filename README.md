@@ -16,9 +16,7 @@
 - Implemented semantic document retrieval and vector-based search over PDF knowledge sources
 - Deployed the application on Hugging Face Spaces with public access
 - Improved UI/UX using custom Gradio Blocks interface
-
 🔗 [GitHub Repository](https://github.com/ThuHoangAnh/rag-langchain-llama)
-
 🌐 [Live Demo](https://huggingface.co/spaces/ThuHoangAnh/rag-langchain-llama)
 
 ---
