@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-### 🤖 RAG LangChain Llama
+## 🤖 RAG LangChain Llama
 - Built a Retrieval-Augmented Generation (RAG) system using LangChain, Gradio, and Llama models
 - Developed an interactive AI Q&A web application for querying Generative AI research papers
 - Implemented semantic document retrieval and vector-based search over PDF knowledge sources
