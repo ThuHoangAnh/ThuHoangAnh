@@ -11,13 +11,16 @@
 ## 🚀 Projects
 
 ## 🤖 RAG LangChain Llama
+
 - Built a Retrieval-Augmented Generation (RAG) system using LangChain, Gradio, and Llama models
 - Developed an interactive AI Q&A web application for querying Generative AI research papers
 - Implemented semantic document retrieval and vector-based search over PDF knowledge sources
 - Deployed the application on Hugging Face Spaces with public access
 - Improved UI/UX using custom Gradio Blocks interface
-🔗 [GitHub Repository](https://github.com/ThuHoangAnh/rag-langchain-llama)
-🌐 [Live Demo](https://huggingface.co/spaces/ThuHoangAnh/rag-langchain-llama)
+
+  🔗 [GitHub Repository](https://github.com/ThuHoangAnh/rag-langchain-llama)
+
+  🌐 [Live Demo](https://huggingface.co/spaces/ThuHoangAnh/rag-langchain-llama)
 
 ---
 
